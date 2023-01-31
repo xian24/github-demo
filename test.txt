@@ -3,3 +3,6 @@ What is the capital of the philippines?
 
 Bohol is in Visayas?
 -True
+
+Manila is in Mindanao.
+-False
